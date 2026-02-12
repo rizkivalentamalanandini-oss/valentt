@@ -18,7 +18,7 @@ body
     padding:0 2pc;
 }
 .menu{
-    background-colour:#417aa8;
+    background-color:#417aa8;
     height:50px;
     line-height:50px;
     position:relative;
@@ -41,6 +41,7 @@ body
     background-color:#4b88bb;
     display:block;
 }
+
 
 
 
